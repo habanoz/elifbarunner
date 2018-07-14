@@ -1,3 +1,0 @@
-# elifbaruuner
-mobile game
-

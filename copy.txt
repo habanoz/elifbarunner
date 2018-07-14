@@ -1,4 +1,0 @@
-copy ElifBaGameMode.uasset 
-to
-Content/ThirdPersonBP/Blueprints
-
