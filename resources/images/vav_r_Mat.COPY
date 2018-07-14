@@ -1,0 +1,22 @@
+Begin Object Class=Material Name="vav_r_Mat"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'/Game/images/vav_r.vav_r'
+      MaterialExpressionEditorX=-250
+      MaterialExpressionGuid=5FE9500B4B877582966366843B953800
+      Material=Material'vav_r_Mat'
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   EmissiveColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=F1EC5B314EEC3260A2B53EB3564D706F
+   ReferencedTextureGuids(0)=99F28FC1404D9BFD209ED3B3C631100D
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=34408F234DF99FE1261E8ABB8887774A
+End Object

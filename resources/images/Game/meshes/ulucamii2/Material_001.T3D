@@ -1,0 +1,22 @@
+Begin Object Class=Material Name="Material_001"
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_0"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_0"
+      Texture=Texture2D'/Game/meshes/ulucamii2/UluCamiiMinaresi.UluCamiiMinaresi'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=1C204BD146AB042D0DB87D87C905FE67
+      Material=Material'Material_001'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_3"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_0'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=09B30D6744D1201258332093510D794A
+   ReferencedTextureGuids(0)=BA54CFEE4217439EE78F02986F4C8A9F
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_3'
+   LightingGuid=BEE1D25D417EF4AB91CEEBBA4A94B2A1
+End Object

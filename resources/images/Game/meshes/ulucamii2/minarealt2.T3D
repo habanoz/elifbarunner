@@ -1,0 +1,22 @@
+Begin Object Class=Material Name="minarealt2"
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_1"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_5"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_1"
+      Texture=Texture2D'/Game/meshes/ulucamii2/minarealt3.minarealt3'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=1127CD9F483278ABFEEBC2B3F8CD517C
+      Material=Material'minarealt2'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_5"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_1',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_1'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=76468FAB444157A4BF6F10A60A9C5764
+   ReferencedTextureGuids(0)=50E1B4EE4801A62C3EB954BE363DEAF4
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_5'
+   LightingGuid=6A482FE848CBB6B9C237A0B622755F59
+End Object

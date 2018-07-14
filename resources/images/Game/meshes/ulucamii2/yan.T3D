@@ -1,0 +1,22 @@
+Begin Object Class=Material Name="yan"
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_5"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_7"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_5"
+      Texture=Texture2D'/Game/meshes/ulucamii2/yan2.yan2'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=495E944C4E8C036994A52C928C00F6C7
+      Material=Material'yan'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_7"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_5',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_5'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=65AC880F4AC76056E2D8ED86F054FE43
+   ReferencedTextureGuids(0)=A5A460D0485DC1EBB8636689200BCCA8
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_7'
+   LightingGuid=874574B946B19C730DBE028D0535DE76
+End Object

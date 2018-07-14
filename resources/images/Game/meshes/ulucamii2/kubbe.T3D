@@ -1,0 +1,22 @@
+Begin Object Class=Material Name="kubbe"
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_4"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_4"
+      Texture=Texture2D'/Game/meshes/ulucamii2/kubbe2.kubbe2'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=3BBE619D479C5B9FFC6B24AEA38BDA47
+      Material=Material'kubbe'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_1"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_4',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_4'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=227FCD304700EDA91FA593A365CB8094
+   ReferencedTextureGuids(0)=6170414347CA09803203F386F8F70385
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_1'
+   LightingGuid=FB25CA204A0EF818498F1F80E9011FF3
+End Object

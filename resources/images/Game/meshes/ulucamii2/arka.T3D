@@ -1,0 +1,22 @@
+Begin Object Class=Material Name="arka"
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_6"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_6"
+      Texture=Texture2D'/Game/meshes/ulucamii2/arka2.arka2'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=4AB0D63B454C699346E44F8B129AC906
+      Material=Material'arka'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_0"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_6',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_6'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=44DEBDB1499F594C593EC4BF247FA404
+   ReferencedTextureGuids(0)=6252D6314267EECACE47B2883BEB1069
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_0'
+   LightingGuid=017C3A9941A89F4D68BA9ABC96285CC1
+End Object

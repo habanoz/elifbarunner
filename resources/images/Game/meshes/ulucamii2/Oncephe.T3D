@@ -1,0 +1,22 @@
+Begin Object Class=Material Name="Oncephe"
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_7"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_6"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_7"
+      Texture=Texture2D'/Game/meshes/ulucamii2/cepheden.cepheden'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=C7219C3C4964BF09E504338346E03196
+      Material=Material'Oncephe'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_6"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_7',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_7'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=DBB230E5495D29EEB27E48894EAFB7AC
+   ReferencedTextureGuids(0)=D534709F445569739DEE1C809C7F439E
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_6'
+   LightingGuid=D355D5DA4FD41887C8EAD4B6848DF451
+End Object

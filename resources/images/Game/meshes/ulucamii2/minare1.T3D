@@ -1,0 +1,22 @@
+Begin Object Class=Material Name="minare1"
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_2"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_4"
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_2"
+      Texture=Texture2D'/Game/meshes/ulucamii2/minare2.minare2'
+      MaterialExpressionEditorX=240
+      MaterialExpressionEditorY=-320
+      MaterialExpressionGuid=A729EC294B2AA3C3ECA8928A77EB9712
+      Material=Material'minare1'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_4"
+   End Object
+   BaseColor=(Expression=MaterialExpressionTextureSample'MaterialExpressionTextureSample_2',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+   Expressions(0)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_2'
+   bCanMaskedBeAssumedOpaque=True
+   StateId=6ED512864AF423F9B09F548A11ADD2BE
+   ReferencedTextureGuids(0)=1C86D77B4A8677988225199A7E848542
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_4'
+   LightingGuid=E81DD1A04DCD6959967AADA0F5D77C81
+End Object
