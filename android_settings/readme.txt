@@ -1,0 +1,1 @@
+copy ManifestRequirementsOverride.txt to GAME/Build/Android. Content will be added to GAME\Main\Intermediate\Android\APK\AndroidManifest.XML
